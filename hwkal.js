@@ -20,7 +20,7 @@ global.linkpro = 'mailto:support@whatsapp.com?subject=Deactivate%20My%20Account%
 global.email = 'Adiganzofc@gmail.com'
 global.region = 'indonesia'
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'GW CUPU😭' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = 'Badut🗿' //ubah jadi nama mu, note tanda ' gausah di hapus!
 global.botname = '🇮🇩𝐀𝐝𝐢𝐆𝐚𝐧𝐳-𝐎𝐟𝐜☠' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = '𝐀𝐦𝐩𝐮𝐧 𝐒𝐮𝐡𝐮' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
